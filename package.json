@@ -1,0 +1,22 @@
+{
+  "homepage": "https://yadvirkaur.github.io/Apple-Watch-Store-Landing-Page-Design",
+  "name": "apple-watch-store-landing-page-design",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yadvirkaur/Apple-Watch-Store-Landing-Page-Design.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yadvirkaur/Apple-Watch-Store-Landing-Page-Design/issues"
+  },
+  "homepage": "https://github.com/yadvirkaur/Apple-Watch-Store-Landing-Page-Design#readme"
+}
